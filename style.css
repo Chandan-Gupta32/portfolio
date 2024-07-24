@@ -191,6 +191,7 @@ section .title::after{
 .home .home-content a{
     display: inline-block;
     background: crimson;
+     margin-top: 240px;
     color: #fff;
     font-size: 25px;
     padding: 12px 36px;
