@@ -1,7 +1,7 @@
 {
   "name": "My Portfolio",
   "short_name": "PORTFOLIO",
-  "start_url": "chandan-gupta32.github.io/portfolio/",
+"start_url":"https://chandan-gupta32.github.io/portfolio/",
   "display": "standalone",
   "icons": [
     {
